@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.pdf
+report/page-*.jpg
+
+# Large raw data — link instructions in README instead of committing these
+# if your GitHub plan / repo size limits are a concern. Comment these out
+# to include them.
+# data/train_test.csv
+# data/validation.csv
